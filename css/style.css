@@ -1,0 +1,67 @@
+body {
+  background-color: Tomato;
+}
+h1 {
+  font-size: 200px;
+  color: blueviolet;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  /* background-color: aqua; */
+  text-align: center;
+}
+img {
+  height: 500;
+  height: 600px;
+}
+s s a:active {
+  color: aqua;
+}
+ul {
+  list-style-type: none;
+  background-color: black#333333;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: darksalmon;
+  font-size: 3vw;
+  text-align: center;
+  padding: 30px;
+  text-decoration: none;
+}
+div.motherContainer div.left {
+  background-color: pink;
+  width: 40%;
+  float-: ;
+}
+div.motherContainer div.right {
+  background-color: pink;
+  width: 60%;
+  /* float: left; */
+  text-align: center;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  margin:;
+}
+
+ /*margin :0; */
+}
+
+.left{
+   background-color: red;
+}
+
+.right{
+   background-color: black;
+  color:white
+}
+
+.grid
